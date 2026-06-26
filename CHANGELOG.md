@@ -1,5 +1,17 @@
 # Changelog
 
+## [4.3.0.899] - 2026-06-26
+### Added
+- Build against released Velocity 4.3.
+
+### Changed
+- Python Examples updated.
+- Compatibility with Python 3.11.
+- Python guide updated.
+
+### Removed
+- Removed macOS support.
+
 ## [4.1.4.1217] - 2022-03-08
 ### Added
 PlanOperations: 
